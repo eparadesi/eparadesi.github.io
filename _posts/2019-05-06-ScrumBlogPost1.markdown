@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Welcome to my Scrum Blog for kids!" 2
+title:  "Welcome to my Scrum Blog for kids!"
 date:   2019-05-06 02:04:15 +0000
 categories: jekyll update
 ---
+
 Week 1
 	Introduction
 
