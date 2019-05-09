@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Welcome to my Scrum Blog for kids!"
-date:   2019-05-06 02:04:15 +0000
+title:  "Sprint 1 Week 1"
+date:   2019-05-06 02:05:15 +0000
 categories: jekyll update
 ---
 
